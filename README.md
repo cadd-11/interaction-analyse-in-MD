@@ -1,4 +1,4 @@
-# interaction-analyse-in-MD
+# Analyse interactions in MD simulations
 To calculate the contact of different beads or groups with MARTINI 3 over the trajectory:
 
 -define the beads or groups you want to analyse
